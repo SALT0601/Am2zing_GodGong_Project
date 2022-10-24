@@ -170,3 +170,7 @@ Spring Boot의 MVC패턴과 React.js를 기반으로 만든 스터디 공유 플
 ![공부일기작성](https://user-images.githubusercontent.com/79136087/170863010-2976781c-aa8a-4b92-9038-51947a829ebc.gif)
 
 </details>
+
+- ## 웹 전체 실행 영상 
+
+- https://youtu.be/iWgOwXkZ_MI
